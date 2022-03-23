@@ -1,6 +1,6 @@
 ## Proposal Author(s)
 
-**Date: 3/22/2022**
+**Date: 03/22/2022**
 
 * Online Identity: Koz
 * Affiliation: Boss DAO
